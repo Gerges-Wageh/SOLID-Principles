@@ -1,1 +1,1 @@
-# SOLID Principles Demonstraion Examles
+# SOLID Principles Demonstration Examples
